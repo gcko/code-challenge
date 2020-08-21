@@ -1,4 +1,4 @@
-# Xccelerate Engineering Offsite
+# Full Stack Coding Challenge
 
 ## Getting Started
 
@@ -9,7 +9,7 @@
 
 1. Fork this repository into your github account.
 1. You may use any JS library or technologies to your liking
-1. When you are done with the challenge, please push to your forked repository and send an email to sean.n@xccelerate.co.
+1. When you are done with the challenge, please push to your forked repository & open a pull request against this main repository.
 
 ### Frontend
 
@@ -57,7 +57,7 @@ You'll find an Express app in `packages/server`. Please build it to handle:
 - Rooms (can be stored in memory for simplicity sake)
 - Code submissions
 
-## What we're looking for:
+## Look to create the following:
 
 - Clean code (follow SOLID principles)
 - Follow best practices of React and Express
