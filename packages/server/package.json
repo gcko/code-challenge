@@ -1,5 +1,5 @@
 {
-  "name": "@xccelerate-offsite/server",
+  "name": "@fullstack-challenge/server",
   "version": "0.0.0",
   "private": true,
   "scripts": {
